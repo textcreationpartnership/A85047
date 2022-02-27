@@ -1,0 +1,208 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Obedience due to the present knig [sic], notwithstanding our oaths to the former written by a divine of the Church of England.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85047</idno>
+            <idno type="STC">Wing F2512</idno>
+            <idno type="STC">ESTC R42367</idno>
+            <idno type="EEBO-CITATION">36273256</idno>
+            <idno type="OCLC">ocm 36273256</idno>
+            <idno type="VID">150066</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85047)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 150066)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2228:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Obedience due to the present knig [sic], notwithstanding our oaths to the former written by a divine of the Church of England.</title>
+                  <author>Whitby, Daniel, 1638-1726.</author>
+                  <author>Fullwood, Francis, d. 1693.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Edinburgh? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Ascribed both to Daniel Whitby and (by Wing 2nd ed.) to Francis Fullwood. According to Halkett &amp; Laing the ascription to the latter is erroneous.</note>
+                  <note>Place and date of publication from Wing (2nd ed.).</note>
+                  <note>Dated in ms at head of title: before 24 Sep. 1689.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Kings and rulers --  Succession.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Pamphlets.</term>
+               <term>Great Britain --  History --  Revolution of 1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:150066:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>
+               <date>
+                  <add>before 24 Sep. 1689</add>
+               </date>OBEDIENCE Due to the Preſent KNIG. Notwithſtanding our OATHS To the FORMER.</head>
+            <byline>Written by a Divine of the Church of <hi>England.</hi>
+            </byline>
+            <p n="1">1. <seg rend="decorInit">T</seg>HE Oath of Allegiance is the Expreſſion of our Natural Duty to the King, (as the Coronation Oath is of the <hi>Regal;</hi> which in Nature is antecedent to it) 'tis eſpecially ſignifyed in theſe Words,<note place="margin">He muſt be King before we can be bound to him as ſuch.</note> 
+               <hi>I will bear Faith and true Allegiance to his Majeſty, his Heirs and Succeſſors, and him and them will defend againſt all Attempts, which ſhall be made againſt his or their Perſons, their Crown and Dignity.</hi>
+            </p>
+            <p n="2">2. If the King do manifeſtly ſeparate his <hi>Perſon</hi> from, and en<g ref="char:EOLhyphen"/>gage it againſt his <hi>Crown and Dignity;</hi> ſo that we cannot Defend them both: I mean, if his Perſonal Actions, contrary to Law,
+<pb facs="tcp:150066:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <pb n="1" facs="tcp:150066:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:150066:3"/>
+               <!-- PDF PAGE 33 -->do directly and openly tend to the prejudice and ſpoiling of his <hi>Crown and Dignity,</hi> by his voluntary ſubjecting them to a Foreign Power, contrary to the plain and primary Intention and Letter of the <hi>Oath;</hi> ſubverting the Legal Conſtitution, and e<g ref="char:EOLhyphen"/>nervating the very <hi>Laws</hi> by which his Crown is ſupported, his Prerogative is meaſured, and the Dignity of the King, as ſuch, hath its very <hi>Being,</hi> as well as the ſafety of his People is main<g ref="char:EOLhyphen"/>tained; certainly, in ſuch a Caſe, none can be bound by this, or any other Oath, to defend the King's <hi>Perſon,</hi> in attempts ſo con<g ref="char:EOLhyphen"/>trary to the very <hi>Reaſon</hi> and End of all Government, with the neglect of the other part of our Duty, which is to defend his <hi>Crown and Dignity.</hi>
+            </p>
+            <p n="3">3. The Oath of <hi>Supremacy</hi> ſeems to direct us more clearly in this difficulty; the Words are, <hi>I ſhall bear Faith and true Allegiance to the King's Highneſs;</hi> but how? It follows, <hi>and to my Power ſhall Aſſiſt and Defend all Juriſdictions, Privi<g ref="char:EOLhyphen"/>ledges, Preheminences and Authorities, Granted</hi> or belonging to the King, or annex'd and united to the Imperial Crown of this Realm; that is, <hi>thus</hi> we are to bear Faith and Allegiance to the <hi>King.</hi>
+            </p>
+            <p n="4">4. For if we ſhould be bound to <hi>Aſſist and Defend his Per<g ref="char:EOLhyphen"/>ſon, when</hi> it is, and <hi>as</hi> it is engaged againſt his Crown and Dig<g ref="char:EOLhyphen"/>nity, we ſeem bound, <hi>toto poſſe, &amp; totis viribus</hi> (ſo far De<g ref="char:EOLhyphen"/>fence is expounded) to Aſſiſt and Contribute to the Ruine both of our King and Country, and perhaps to the cutting of our own Throats.</p>
+            <p n="5">5. If any ſhould imagine, That the Oath will not ſuffer us to conſider the Perſon and Crown of the King, thus divi<g ref="char:EOLhyphen"/>ded; but that it binds us to aſſiſt and defend them together: 'tis true, while they are kept together. But if the <hi>King</hi> himſelf divide them, and 'tis become impoſſible for us to Aſſiſt his Perſon but we muſt betray his Crown; nor Defend his Crown without forbearing to Aſſiſt his Perſon; to ſay, now we are bound to Aſſiſt and Defend both, makes a
+<pb n="3" facs="tcp:150066:3"/>
+               <!-- PDF PAGE 33 -->plain Repugnancy in the Oath, and in our Duty (to do and not to do the ſame thing) and conſequently the Obligation ceaſeth.</p>
+            <p n="6">6. That we are bound by our <hi>Allegiance</hi> to Aſſiſt the <hi>Per<g ref="char:EOLhyphen"/>ſon</hi> of the King, to the prejudice of his Crown and People, ſeems not only to be againſt the light of Nature, the <hi>primary</hi> End of it being the ſafety of his Kingdom, and the ſafety of the King, but the <hi>ſecondary</hi> end of it; but moſt agreeable to the ſenſe of our Ancient and Learned <hi>Lawyers,</hi> and alſo,<note place="margin">
+                  <hi>Bract, Fleta</hi> Ei fraenura ponere.</note> of the plain acknowledgment and profeſſion of Ancient <hi>Kings</hi> and <hi>Parliaments.</hi>
+            </p>
+            <p>King <hi>Henry</hi> I. five Hundred Years agone, told the Pope, whilſt live, the <hi>Authorities and <g ref="char:V">Ʋ</g>ſages of the Kingdom ſhall ne<g ref="char:EOLhyphen"/>ver be diminiſhed:</hi> But if I <hi>would</hi> ſo <hi>Debaſe myſelf</hi> (which <hi>God forbid</hi>) <hi>Magnates mei &amp; totus Angliae populus nullo modo pate<g ref="char:EOLhyphen"/>rentur:</hi> The Lords and People of <hi>England</hi> would by no means ſuffer it. And <hi>Edward</hi> I. wrote himſelf to the ſame pur<g ref="char:EOLhyphen"/>poſe. Beſides, with his conſent, the <hi>Lords</hi> and <hi>Commons</hi> in Parliament, in their Letter to the <hi>Pope,</hi> have theſe Words, <hi>We do not permit, or in the leaſt will permit (ſicut nec poſſumus nec debemus)</hi> though our Soveraign Lord the <hi>King</hi> do, or in the leaſt wiſe <hi>attempt</hi> to do any of the premiſes (by own<g ref="char:EOLhyphen"/>ing the Popes Authority, touching his Right to <hi>Scotland</hi>) ſo ſtrange a thing, ſo unlawful, prejudicial, and otherwiſe un<g ref="char:EOLhyphen"/>heard of, <hi>though the King himſelf would.</hi> Once more, on Re<g ref="char:EOLhyphen"/>cord in the Fourth of <hi>Henry</hi> III. the Commons Declare; <hi>Si Dominus Rex &amp; Regni majores hoc vellent</hi> (<hi>Adomer</hi>'s Revoca<g ref="char:EOLhyphen"/>tion upon the Popes Order) <hi>Communitas tamen ipſius ingreſſum in Angliam, nullatenus ſustineret.</hi>
+            </p>
+            <p>Now what's the meaning of all this? but that the King's <hi>Perſonal</hi> Will, contrary to Law, however expreſſed (for it muſt be ſignifyed by his Word or Actions) if the perfor<g ref="char:EOLhyphen"/>mance of it would prejudice his Crown and Dignity, may be reſiſted. Much leſs are we bound by our <hi>Allegiance</hi> to Aſſiſt or
+<pb n="4" facs="tcp:150066:4"/>
+               <!-- PDF PAGE 34 -->Defend him in ſo doing, in <hi>Reaſon, Law,</hi> or the ſenſe of our Ancient <hi>Kings</hi> or <hi>Parliaments.</hi>
+            </p>
+            <p>Objection. <hi>But we Swear to Defend, not only the King but his Heirs and</hi> Lawful Succeſſors.</p>
+            <p>
+               <hi>Anſwer</hi> 1. T<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue, but <hi>Haeres non eſt viventis,</hi> and the Suc<g ref="char:EOLhyphen"/>ceſſor, in Law and Common Senſe, is the Perſon that doth actually ſucceed, or is in poſſeſſion. Now if the Actual Succeſ<g ref="char:EOLhyphen"/>ſor be the Lawful Succeſſor, we are bound by our Oaths to Defend him; but if he be not the Lawful Succeſſor, none elſe is ſo, becauſe none elſe is the Succeſſor, and conſequent<g ref="char:EOLhyphen"/>ly, ſo far the <hi>Object</hi> and <hi>Reaſon</hi> of our Oaths ceaſing, our <hi>Ob<g ref="char:EOLhyphen"/>ligation</hi> by them ceaſeth, and we are bound to none beſides the Perſon in Poſſeſſion.</p>
+            <p n="2">2. 'Tis farther remarkable, That though the word <hi>Law<g ref="char:EOLhyphen"/>ful</hi> be once in the Oath of <hi>Supremacy,</hi> 'tis only <hi>there,</hi> where we Swear Faith and Allegiance in <hi>General:</hi> But, as if it were intended, that the Subject ſhould not trouble himſelf about the <hi>Title</hi> of the King in <hi>Being,</hi> where that Allegiance, is explain'd with reſpect to practice, the word <hi>Lawful</hi> is left out in that Oath. It follows there in theſe Words, —<hi>Shall aſſist and de<g ref="char:EOLhyphen"/>fend all Jurisdictions,</hi>—Granted or belonging to the King's Highneſs, his Heirs and Succeſſors, without the Word <hi>Lawful.</hi> And agreeable hereunto, we find the word wholly left out in the Oath of <hi>Allegiance,</hi> both in the ſame place, where we Swèar Allegiance in <hi>General,</hi> as well as in the other place of our more particular Duty; and it looks as if this was done <hi>de Induſtria,</hi> for the ſame Reaſon, namely, that ſuch as take the Oaths, might not think themſelves bound thereby to be <hi>Sollicitous</hi> about the <hi>Title</hi> of the Crown.</p>
+            <p n="3">3. The Holy Scriptures ſeem not to involve the Conſciences of <hi>private</hi> Chriſtians about <hi>Princes Titles;</hi> but expreſly require their Subjection to the <hi>Powers that are,</hi> as a great and neceſ<g ref="char:EOLhyphen"/>ſary Inſtance of that Humility and peacable Behaviour which their Religion teacheth them.</p>
+            <p n="4">
+               <pb n="5" facs="tcp:150066:4"/>
+               <!-- PDF PAGE 34 -->
+4. In the ſame Holy Books, we are farther moſt plainly admoniſh'd that (by what means ſoever obtained) <hi>'tis God that puteth down one, and ſetteth up another;</hi> and upon that ground too,<note place="margin">Rom. 13.</note> we are ſtrictly charged to <hi>Submit</hi> to the <hi>Powers that are,</hi> becauſe they are <hi>Ordain'd of God.</hi> And tho' the <hi>Apo<g ref="char:EOLhyphen"/>ſtle</hi> uſe the word <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> I think, none can Imagine he intended by it, to determine the Lawfulneſs of <hi>Angustus</hi>'s Title, who was admitted by the <hi>Senate;</hi> but rather, to inforce that Obedience that he preſſeth the Chriſtians to yeild, by this Conſideration,<note place="margin">Imporatore; Rom. ſaten<g ref="char:EOLhyphen"/>dum eſt, non optimo Jure Imperium a<g ref="char:EOLhyphen"/>dep<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>os. <hi>San<g ref="char:EOLhyphen"/>derſon.</hi>
+               </note>That <hi>all Authority</hi> is from <hi>God;</hi> and in its true <hi>Nature,</hi> and by God's <hi>Ordinance,</hi> intended for our <hi>Good.</hi>
+            </p>
+            <p n="5">5. The known <hi>Statute</hi> of 11 <hi>H.</hi> 7.1. is of the ſame import, and grounded, we find, upon the like <hi>Reaſon</hi> and H. <hi>Scripture,</hi> it gives us way to this plain inference, that the <hi>ſame duty</hi> which we owe to a <hi>Lawful</hi> King, is to be performed to the <hi>King in Being;</hi> that is, to the King in <hi>Poſſeſſion;</hi> and that no other <hi>King</hi> or future <hi>Parliament</hi> can in <hi>Reaſon, Law,</hi> or <hi>good Conſcience,</hi> upon any pretence of Uſurpation in the <hi>Poſſeſsor</hi> of the Crown, or any <hi>Diſloyalty</hi> in the Subject, charge us with guilt, for <hi>Ser<g ref="char:EOLhyphen"/>ving</hi> or defending the King in Poſſeſſion. The Subjects there<g ref="char:EOLhyphen"/>fore, might Lawfully ſight for him, and conſequently take the Military Oath; in <hi>Reaſon</hi> (by the Law of <hi>Nature</hi>) in <hi>Law,</hi> by the Law of the Land; in all <hi>good Conſcience,</hi> that is, by the Law of God, in the H. Scriptures.</p>
+            <p n="6">6. Hereupon, my Lord <hi>Coke's</hi> words are notable: This <hi>Act,</hi> ſaith he (meaning 25. <hi>Ed.</hi> 3. <hi>about Treaſon</hi>) is to be under<g ref="char:EOLhyphen"/>ſtood of a <hi>King in poſſeſſion of the Crown and Kingdome: for if there be a King Regnant</hi> in Poſſeſſion, altho' he be <hi>Rex de facto</hi> and <hi>non de jure,</hi> yet is he <hi>Seignior le Roy,</hi> within the <hi>purview of</hi> this Statute; and the <hi>other,</hi> that hath <hi>Right</hi> and is out of <hi>poſ<g ref="char:EOLhyphen"/>ſeſſion,</hi> is not <hi>within this Act.</hi>
+            </p>
+            <p>Nay, ſaith he, if <hi>Treaſon</hi> be commited againſt a King <hi>de facto,</hi> and <hi>non de jure,</hi> and after the King <hi>de jure</hi> come to the Crown, he ſhall <hi>Puniſh</hi> the Treaſon done to the King <hi>de facto;</hi>
+               <pb n="6" facs="tcp:150066:5"/>
+               <!-- PDF PAGE 35 -->and a <hi>Pardon</hi> granted by a King <hi>de jure,</hi> that is not alſo <hi>de facto,</hi> is voide, <hi>Inſt.</hi> 3. <hi>l. p.</hi> 7.</p>
+            <p>Now if by the Law of the Land, which I think is our only guide in ſuch caſes, Treaſon may be committed againſt a <hi>King</hi> that is ſo only by <hi>Poſſeſſion,</hi> without <hi>Right;</hi> and cannot be committed againſt him that hath <hi>Right,</hi> and not Poſſeſſion: ſeing he is not within the purview of the Statute, ſure, we can<g ref="char:EOLhyphen"/>not reaſonably be thought to be intangled in ſuch a ſtrait, as to be bound by our <hi>Allegiance</hi> to commit <hi>Treaſon,</hi> which we cannot preſume the King in <hi>Poſſeſſion will Pardon,</hi> and the Law tells us, the King that hath Right only, cannot. Who there<g ref="char:EOLhyphen"/>fore would queſtion our Liberty to be <hi>true and Faithful</hi> to the King in Poſſeſſion, ſo far at leaſt, as not to reſiſt him, or to be <hi>Traitors</hi> to him? or to give him aſſurance thereof by our Oath. The renown'd Caſuiſt Biſhop <hi>Sanderſon</hi> would not declare the very <hi>Engagement</hi> to be unlawful,<note place="margin">Caſe of Engag <hi>p. 111.</hi>
+               </note> taken in that lower Senſe, to the pretended <hi>Common-wealth</hi> without any <hi>King</hi> or <hi>Houſe of Lords.</hi>
+            </p>
+            <p n="7">7. Since we have mentioned that excellent Caſuiſt, whoſe <hi>Loyalty, Judgement, Fidelity,</hi> and <hi>Authority,</hi> is unqueſtionable, 'tis fit for us to obſerve what he hath frequently and without the leaſt heſitancy delivered as his <hi>premeditated</hi> thoughts a<g ref="char:EOLhyphen"/>bout the preſent caſe.</p>
+            <p>Having ſuppos'd a <hi>King</hi> in <hi>Poſſeſſion</hi> only, by <hi>Power,</hi> if the Query be what is to be done by the Subject that hath Sworn Allegiance to the <hi>rightful King:</hi> he anſwers, 'tis not Law<g ref="char:EOLhyphen"/>ful to obey the King in <hi>ſuch</hi> Poſſeſſion; but it often happens that not doing ſo, <hi>[defuiſſe Officio]</hi> we are wanting to our <hi>duty.</hi> Yea, that we owe Subjection to a King in Poſſeſſion, upon the grounds of Juſtice, <hi>Equity, Charity,</hi> and <hi>Gratitude,</hi> while we enjoy our Liberties and are Protected by him.</p>
+            <p>
+               <hi>Exigit hoc a nobis (Optima aequi boni lex) vetus illa commuta<g ref="char:EOLhyphen"/>tionum formula,</hi> 
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>&amp; profecto, perverſiſſimae mentis, ſub illius dominationis patrocinio, velle vivere cui parere nolis:
+<pb n="7" facs="tcp:150066:5"/>
+                  <!-- PDF PAGE 35 -->&amp; cajus protectione gaudeas, ejus imperium detractare.</hi>
+            </p>
+            <p n="8">8. His third Argument for the Neceſſity of Obedience to the <hi>preſent power,</hi> however obtained, is taken from the <hi>Charity</hi> we owe to the <hi>publick,</hi> whether <hi>Church</hi> or <hi>State,</hi> of which we are Members, and for the good of which we are Born; in <hi>quantum igitur illius Societatis, cujus ipſe Membrum &amp; pars eſt, Salus &amp; tranquillitas exigit, eatenus Civis unuſquiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> im<g ref="char:EOLhyphen"/>periis ejus qui de facto praeeſt, obtemperare tenetur.</hi> Words worthy the moſt ſerious reflection of the preſent <hi>Church of</hi> England. Read at large his <hi>5th.</hi> Praelect.</p>
+            <p>But as to the Argument from <hi>Gratitude,</hi> when we ſeriouſly reflect upon our <hi>late</hi> forlorn and <hi>ruinous</hi> Condition both in Church and ſtate; when we call to mind that all our Foun<g ref="char:EOLhyphen"/>dations were put out of Courſe, and our Pillars even broken by the Late King's own ill guided hands; and that the <hi>Heroick Prince</hi> hath been at ſo great <hi>Expence,</hi> and expoſed himſelf to ſo many <hi>hazards,</hi> in his own <hi>Country,</hi> at <hi>Sea,</hi> and here in <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> in Compaſſion both to our <hi>Miſeries</hi> and <hi>Infirmities;</hi> when our <hi>Land</hi> was <hi>weak,</hi> and all the <hi>Inhabitants</hi> thereof in an utter <hi>diſaiblity</hi> to reſcue or ſave themſelves; and none under Hea<g ref="char:EOLhyphen"/>ven, within the reach of humane apprehenſion, beſides that one Prince, could poſſibly effect it; that Glorious Inſtrument under God, put his hand to ſupport and ſtrengthen, and <hi>bear up our Pillars:</hi> To Redeem and ſecure our <hi>Religion, Laws,</hi> and <hi>Liberties;</hi> and when our late King, either for fear of his Per<g ref="char:EOLhyphen"/>ſon, or rather of the Iſſue of Affairs in our <hi>Re-establiſhment,</hi> had <hi>deſerted or abdicated his Kingdom,</hi> and left us in confuſion to ſhift for our ſelves; whoſe return now cannot be thought of with<g ref="char:EOLhyphen"/>out Horour: And the preſent <hi>King and Queen,</hi> being therefore firſt Petitioned, to take the Government, have Graciouſly ac<g ref="char:EOLhyphen"/>cepted it, upon <hi>terms</hi> anſwering all mens deſires or <hi>Intereſts.</hi> I ſay, when all this is well pondered, the Ground and Ar<g ref="char:EOLhyphen"/>gument, for our quiet and chearful ſubmiſſion, taken from <hi>Gratitude,</hi> is indeed <hi>too big</hi> to be contained in a <hi>ſheet</hi> or two
+<pb n="8" facs="tcp:150066:6"/>
+               <!-- PDF PAGE 36 -->of Paper, or the <hi>mind of Man:</hi> And Prodigious, beyond the credit of <hi>Poſterity.</hi>
+            </p>
+            <p>Laſtly, One would think there was no place left for any farther Scruple. The late <hi>Change</hi> was urged by extreme <hi>Neceſſity,</hi> and carried on with a wonderful <hi>Providence,</hi> and perfected with <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Conſent;</hi> it was eminently the <hi>Lord's doing,</hi> and <hi>our own</hi> too; the Government was unhing'd by the <hi>late King</hi> himſelf The <hi>preſent</hi> King <hi>&amp;c.</hi> was put into poſſeſ<g ref="char:EOLhyphen"/>ſion by <hi>our ſelves</hi> in our <hi>Repreſentatives;</hi> who were as freely choſen by us as ever any <hi>Parliament</hi> was: The <hi>Convention</hi> had nothing wanting but the previous formality of the <hi>Royal writs,</hi> which could not be then had; that <hi>Punctilio</hi> of order, cannot reaſonably be ſuppoſed to go into the <hi>being</hi> of the <hi>Repreſentative</hi> Body; the want of it, cannot well be thought to prejudice our <hi>Election</hi> or <hi>Conſent</hi> to what they have done, whom we choſe and <hi>entrusted</hi> with our <hi>Politick</hi> Reaſon and Intereſt, and in whoſe Acts, we ought to acquieſce as our <hi>own doings,</hi> in every thing or matter of <hi>Expediency</hi> for the <hi>Publick</hi> good, not <hi>evidently</hi> contrary to our duty to <hi>God.</hi>
+            </p>
+            <p>In ſhort, The <hi>Poſſeſſion</hi> of the Throne, by the Act of the People of <hi>England,</hi> is now <hi>unquestionable;</hi> we have no liberty left us, either to <hi>diſpute</hi> the King's <hi>Title,</hi> or deny him our <hi>Duty.</hi> Give unto <hi>Caeſar</hi> the things that are <hi>Caeſars,</hi> &amp;c.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
